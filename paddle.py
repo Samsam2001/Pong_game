@@ -1,5 +1,5 @@
 from turtle import Turtle
-
+print("git")
 
 class Paddle(Turtle):
 
