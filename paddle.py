@@ -1,5 +1,6 @@
 from turtle import Turtle
 print("git")
+print("sam")
 
 class Paddle(Turtle):
 
